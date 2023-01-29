@@ -29,7 +29,10 @@ p{
     background-image: url("images/top-banner.png");
     background-position: left;
     background-repeat: no-repeat;
-    height: 500px;
+}
+section{height: 500px;
+    padding-bottom: 150px;
+
 }
 .link-button{
      text-decoration: none;
